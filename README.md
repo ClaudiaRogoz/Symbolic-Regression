@@ -1,4 +1,3 @@
-Tema1-PP
 ========
 Readme 
 Claudia Rogoz
